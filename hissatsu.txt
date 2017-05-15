@@ -1,0 +1,10 @@
+slam
+beam
+tomahawk
+punch
+smash
+blast
+whack
+shot
+kick
+fist
